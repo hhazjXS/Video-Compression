@@ -1,0 +1,227 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(502,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  blk_prediction.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  config_common.c
+  img_io.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  img_process.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  input.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  io_raw.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  io_tiff.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  mbuffer_common.c
+  memalloc.c
+  mv_prediction.c
+  nalucommon.c
+  parsetcommon.c
+  resize.c
+  transform.c
+  win32.c
+  annexb.c
+  biariencode.c
+  block.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  cabac.c
+  cconv_yuv2rgb.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  configfile.c
+  conformance.c
+  context_ini.c
+  errdo.c
+  errdo_dist_mhyp.c
+  explicit_gop.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  explicit_seq.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  filehandle.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  fmo.c
+  get_block_otf.c
+  header.c
+  hme_distortion.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  hme_luma.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  image.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  image_mp.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  img_chroma.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  img_distortion.c
+  img_dist_ms_ssim.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  img_dist_snr.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  img_dist_ssim.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  img_luma.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  intra16x16.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  intra4x4.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  intra8x8.c
+  intrarefresh.c
+  intra_chroma.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lambda.c
+  leaky_bucket.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lencod.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  list_reorder.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lln_mc_prediction.c
+  loopFilter.c
+  loop_filter_mbaff.c
+  loop_filter_normal.c
+  macroblock.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  macroblock_P444.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  mbuffer.c
+  mb_access.c
+  mc_prediction.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  mc_prediction_otf.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  md_common.c
+  md_distortion.c
+  md_high.c
+  md_highfast.c
+  md_highloss.c
+  md_high_updated.c
+  md_low.c
+  me_distortion.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_distortion_otf.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_epzs.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_epzs_common.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_epzs_int.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_epzs_sub.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_fullfast.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_fullfast_otf.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_fullsearch.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_hme.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  me_umhex.c
+  me_umhexsmp.c
+  mmco.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  mode_decision.c
+  mode_decision_P8x8.c
+  mv_direct.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  mv_search.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  nal.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  nalu.c
+  output.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  parset.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  pred_struct.c
+  quant4x4.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quant4x4_2step.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quant4x4_around.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quant4x4_normal.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quant4x4_trellis.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quant8x8.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quant8x8_around.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quant8x8_normal.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quant8x8_trellis.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quantChroma.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quantChroma_2step.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  quantChroma_around.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quantChroma_normal.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  quantChroma_trellis.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  q_around.c
+  q_matrix.c
+  q_offsets.c
+  ratectl.c
+  rc_quadratic.c
+  rdopt.c
+  rdopt_coding_state.c
+  rdoq.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  rdoq_cabac.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  rdoq_cavlc.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  rdpicdecision.c
+  rd_intra_jm.c
+  rd_intra_jm444.c
+  rd_intra_jm_low.c
+  report.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  rtp.c
+  sei.c
+  正在生成代码...
+  正在编译...
+  slice.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  symbol.c
+  transform8x8.c
+  transform8x8_H444.c
+  vlc.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  weighted_prediction.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  wp_lms.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  wp_mciter.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  wp_mcprec.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  wp_periodic.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  wp_random.c
+C:\Users\Administrator\Desktop\jm19.0\JM\lencod\inc\contributors.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  lencod_vc11.vcxproj -> C:\Users\Administrator\Desktop\jm19.0\JM\bin\lencod.exe
